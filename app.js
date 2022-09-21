@@ -1,1 +1,1 @@
-console.log("Rodando o sistema de geranciamento de jogos")
+ console.log("Rodando o sistema de geranciamento de jogos")
